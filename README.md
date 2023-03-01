@@ -61,8 +61,7 @@ public static RETURN_TYPE ReturnInt()
 }
 ```
 
-A common practice for method names in .NET is to give [method names](https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-type-members#names-of-methods) that are verbs or verb phrases and use the [PascalCasing convention](https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/capitalization-conventions) for method names.
-*
+A common practice for method names in .NET is to give [method names](https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/names-of-type-members#names-of-methods) that are verbs or verb phrases and use the [PascalCasing convention](https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/capitalization-conventions#capitalization-rules-for-identifiers) for method names.
 
 Replace RETURN_TYPE with `int` and RETURN_VALUE with the `-1234567` literal.
 
